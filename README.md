@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vijaythapakdata
-- 👀 I’m interested in ...machine learning and datascience
+- 👀 I’m interested in ...machine learning and Office 365.
 - 🌱 I’m currently learning ... datascience
 - 
-- 💞️ I’m looking to collaborate on ... data science
+- 💞️ I’m looking to collaborate on ... data science and SharePoint Framework.
 - 📫 How to reach me ... vijaythapak2001@gmail.com
 
 <!---
